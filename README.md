@@ -1,1 +1,11 @@
 # oficina-reconhecimento-facial-nodejs
+
+PASSE SUPABASE
+ReizaoDistoTudo
+
+API-URL
+https://eusfssmrpqyufjfjrpuu.supabase.co/rest/v1/
+
+ANON PUBLIC KEY
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1c2Zzc21ycHF5dWZqZmpycHV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg1ODkyMjksImV4cCI6MjA5NDE2NTIyOX0.SVUlswL7syWTxcwAjLLJCFmNHHRLTduEG1HNmvKKisk
+
